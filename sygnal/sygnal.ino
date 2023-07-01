@@ -1,8 +1,8 @@
 #include<ESP8266WiFi.h>
 WiFiClient client;
 WiFiServer server(80);
-const char* ssid = "UPC3846636";
-const char* password = "pv8uxkrk3Wch";
+const char* ssid = "*******";
+const char* password = "*******";
 void setup()
 {
   Serial.begin(115200);
