@@ -23,8 +23,8 @@ I'll be pleased if you'd do it by sharing http://youtube.com/bitlunislab
 #include "WaveFunction.h"
 #include "RF.h"
 
-const char* ssid = "UPC3846636";
-const char* password = "pv8uxkrk3Wch";
+const char* ssid = "******";
+const char* password = "********";
 
 ESP8266WebServer server(80);
 
