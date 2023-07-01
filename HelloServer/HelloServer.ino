@@ -7,8 +7,8 @@
 #define PIN D4
 Adafruit_NeoPixel strip = Adafruit_NeoPixel(100, PIN, NEO_GRB + NEO_KHZ800);
 #ifndef STASSID
-#define STASSID "UPC3846636"
-#define STAPSK  "pv8uxkrk3Wch"
+#define STASSID "***********"
+#define STAPSK  "************"
 #endif
 
 
